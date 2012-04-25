@@ -1,0 +1,20 @@
+---
+layout: default
+title: Postings
+---
+
+<div class="span10">
+  <div class="page-header">
+    <h3>Blog posts <small>&raquo; Technical Learnings of IT for Make Benefit Glorious Person of Myself</small></h3>
+    <p></p>
+  </div>
+
+  <h3>Postings:</h3>
+  <div class="well">
+    <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+  </div>
+</div>

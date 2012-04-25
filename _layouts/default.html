@@ -7,8 +7,9 @@
    <link href="" rel="alternate" title="Mike Adolphs" type="application/atom+xml" />
 
    <!-- Homepage CSS -->
-   <link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
-   <link rel="stylesheet" href="css/fooforge.com.css" type="text/css" />
+   <link rel="stylesheet" href="/assets/css/bootstrap.css" type="text/css" />
+   <link rel="stylesheet" href="/assets/css/pygments.css" type="text/css" />
+   <link rel="stylesheet" href="/assets/css/fooforge.com.css" type="text/css" />
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
@@ -21,9 +22,29 @@
 
 <div class="wrapper">
   <div class="container">
-    <div class="page-header">
+    <div class="row">
+      <ul class="breadcrumb">
+        <span>Latest postings</span><span class="divider">&raquo;</span>
+        {% for post in site.posts %}
+          <li><a href="{{ post.url }}">{{ post.title }}</a> <span class="divider">&raquo;</span></li>
+        {% endfor %}
+      </ul>
     </div>
-    {{ content }}
+    <div class="row">
+      <div class="span2">
+        <div class="tabbable tabs-left">
+          <ul class="nav nav-tabs">
+            <li><a href="/" data-toggle="tab">Welcome</a></li>
+            <li><a href="/work.html" data-toggle="tab">Work</a></li>
+            <li><a href="/posts.html" data-toggle="tab">Posts</a></li>
+            <li><a href="/contact.html" data-toggle="tab">Contact</a></li>
+          </ul>
+        </div> <!-- /tabbable -->
+      </div>
+
+      {{ content }}
+
+    </div>
     <div class="push"><!--//--></div>
   </div>
 </div>
@@ -47,7 +68,7 @@
       </div>
       <div class="span2 offset6">
         <a href="">
-          <img src="images/rss.png" alt="Subscribe to RSS Feed" />
+          <img src="/assets/images/rss.png" alt="Subscribe to RSS Feed" />
         </a>
       </div>
     </div>
