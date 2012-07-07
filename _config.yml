@@ -1,2 +1,6 @@
+name: fooforge
+description: Mike Adolphs
+url: http://fooforge.com/
+
 markdown: rdiscount
 pygments: true
