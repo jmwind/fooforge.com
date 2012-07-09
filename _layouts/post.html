@@ -5,9 +5,26 @@ layout: default
 <div class="span10">
   <div class="page-header">
     <h3>{{ page.title }} <small>{{ page.subtitle }}</small></h3>
+    <div class='pull-right'>
+      <a class="FlattrButton" style="display:none;" rev="flattr;button:compact;" href="http://fooforge.com/"></a>
+      <noscript><a href="http://flattr.com/thing/734956/fooforge-blog" target="_blank">
+      <img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0" /></a></noscript>
+    </div>
   </div>
 
   {{ content }}
+
+
+  <script type="text/javascript">
+  /* <![CDATA[ */
+      (function() {
+          var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+          s.type = 'text/javascript';
+          s.async = true;
+          s.src = 'http://api.flattr.com/js/0.6/load.js?mode=auto';
+          t.parentNode.insertBefore(s, t);
+      })();
+  /* ]]> */</script>
 
   {% if page.comments %}
   <div id="disqus_thread"></div>
