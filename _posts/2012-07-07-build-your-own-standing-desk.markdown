@@ -44,7 +44,9 @@ The second shelf acts as a monitor stand. You might need to add a few books or a
 
 ### Enjoy the result! <small>And dance!</small>
 
-That's it. Enjoy the result, stand up to get things done. And when your feet starts to hurt simply switch into **dancing-driven development** mode!
+That's it. Enjoy the result, stand up to get things done. And when your feet starts to hurt simply switch into **dancing-driven development** mode! Feel free to ask questions in the comments!
+
+I'm also on [twitter](https://twitter.com/fooforge). Follow me for the latest updates.
 
 <ul class="thumbnails">
   <li class="span3">
@@ -78,6 +80,4 @@ That's it. Enjoy the result, stand up to get things done. And when your feet sta
     </a>
   </li>
 </ul>
-
-Feel free to ask questions in the comments! I'm also on [twitter](https://twitter.com/fooforge). Follow me for the latest updates.
 
