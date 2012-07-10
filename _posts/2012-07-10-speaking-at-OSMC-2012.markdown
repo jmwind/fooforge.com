@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Speaking at OSMC 2012
 subtitle: "Talking about how you'd improve your monitoring!"
 ---
