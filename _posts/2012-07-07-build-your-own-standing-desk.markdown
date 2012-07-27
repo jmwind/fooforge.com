@@ -5,7 +5,7 @@ title: Build your own standing desk!
 subtitle: This is an order.
 ---
 
-<a href='/assets/images/posts/standing_desk_final_01.jpg'><img src="/assets/images/posts/thumb_standing_desk_final_01.jpg" class="pull-left" style="padding-right: 10px;"></a>
+<a href='/assets/images/posts/standing_desk_final_01.jpg' rel="lightbox[foo]"><img src="/assets/images/posts/thumb_standing_desk_final_01.jpg" class="pull-left" style="padding-right: 10px;"></a>
 
 I've been sitting in front of a computer for quite a while now. Nearly half my life I've been sitting for getting things done, I guess. Time for a change!
 
@@ -29,12 +29,12 @@ Please note that I had to buy different shelfs than Colin mentioned since my loc
 
 ### Get your hands dirty!
 
-<a href='/assets/images/posts/standing_desk_tape.jpg'><img src="/assets/images/posts/thumb_standing_desk_tape.jpg" class="pull-right" style="padding-left: 10px;"></a>
+<a href='/assets/images/posts/standing_desk_tape.jpg' rel="lightbox[foo]"><img src="/assets/images/posts/thumb_standing_desk_tape.jpg" class="pull-right" style="padding-left: 10px;"></a>
 
 When it comes to putting the thing together you first need to adjust the height of the shelf. Once there're attached to the LACK's table legs the height is fixed. Make sure that the shelf is at or slightly below elbow height.
 Head over to the [Tinkering Monkey](http://www.tinkeringmonkey.com/site/do-your-back-a-favor-get-a-standing-desk/) to see some nice graphics about ergonomics of a standing desk.
 
-<a href='/assets/images/posts/standing_desk_bolts.jpg'><img src="/assets/images/posts/thumb_standing_desk_bolts.jpg" class="pull-left" style="padding-right: 10px;"></a>
+<a href='/assets/images/posts/standing_desk_bolts.jpg' rel="lightbox[foo]"><img src="/assets/images/posts/thumb_standing_desk_bolts.jpg" class="pull-left" style="padding-right: 10px;"></a>
 
 The LACK table's legs are hollow, at least in Europe. Those bolts make sure that the brackets are able to handle the weight of the shelf safely. With just a few screws or dowels you might get into trouble. Also, the drill holes on the VALTER brackets are too narrow out of the box. You have to widem them carefully so that an M6/80mm bolt fits.
 
@@ -50,32 +50,32 @@ I'm also on [twitter](https://twitter.com/fooforge). Follow me for the latest up
 
 <ul class="thumbnails">
   <li class="span3">
-    <a href="/assets/images/posts/standing_desk_testing.jpg" class="thumbnail">
+    <a href="/assets/images/posts/standing_desk_testing.jpg" class="thumbnail" rel="lightbox[foo]">
       <img src="/assets/images/posts/thumb_standing_desk_testing.jpg" alt="">
     </a>
   </li>
   <li class="span3">
-    <a href="/assets/images/posts/standing_desk_height.jpg" class="thumbnail">
+    <a href="/assets/images/posts/standing_desk_height.jpg" class="thumbnail" rel="lightbox[foo]">
       <img src="/assets/images/posts/thumb_standing_desk_height.jpg" alt="">
     </a>
   </li>
   <li class="span3">
-    <a href="/assets/images/posts/standing_desk_final_04.jpg" class="thumbnail">
+    <a href="/assets/images/posts/standing_desk_final_04.jpg" class="thumbnail" rel="lightbox[foo]">
       <img src="/assets/images/posts/thumb_standing_desk_final_04.jpg" alt="">
     </a>
   </li>
   <li class="span3">
-    <a href="/assets/images/posts/standing_desk_final_02.jpg" class="thumbnail">
+    <a href="/assets/images/posts/standing_desk_final_02.jpg" class="thumbnail" rel="lightbox[foo]">
       <img src="/assets/images/posts/thumb_standing_desk_final_02.jpg" alt="">
     </a>
   </li>
   <li class="span3">
-    <a href="/assets/images/posts/standing_desk_final_03.jpg" class="thumbnail">
+    <a href="/assets/images/posts/standing_desk_final_03.jpg" class="thumbnail" rel="lightbox[foo]">
       <img src="/assets/images/posts/thumb_standing_desk_final_03.jpg" alt="">
     </a>
   </li>
   <li class="span3">
-    <a href="/assets/images/posts/standing_desk_final_01.jpg" class="thumbnail">
+    <a href="/assets/images/posts/standing_desk_final_01.jpg" class="thumbnail" rel="lightbox[foo]">
       <img src="/assets/images/posts/thumb_standing_desk_final_01.jpg" alt="">
     </a>
   </li>
