@@ -74,10 +74,5 @@ I'm also on [twitter](https://twitter.com/fooforge). Follow me for the latest up
       <img src="/assets/images/posts/thumb_standing_desk_final_03.jpg" alt="">
     </a>
   </li>
-  <li class="span3">
-    <a href="/assets/images/posts/standing_desk_final_01.jpg" class="thumbnail" rel="lightbox[foo]">
-      <img src="/assets/images/posts/thumb_standing_desk_final_01.jpg" alt="">
-    </a>
-  </li>
 </ul>
 
