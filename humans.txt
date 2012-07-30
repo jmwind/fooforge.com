@@ -1,0 +1,27 @@
+/* TEAM */
+  Boss: Mike Adolphs
+  Contact: mike@fooforge.com
+  Twitter: @fooforge
+  From: Lubeque, Germany
+
+
+/* THANKS */
+
+  Jekyll master: Tom Preston-Werner
+  Twitter: @mojombo
+  From: San Francisco, US
+ 
+  Sitemaps plugin: Michael Levin
+  Github: https://github.com/kinnetica
+  From: Washington D.C., US
+
+  Lightbox2: Lokesh Dhakar
+  Twitter: @lokeshdhakar
+  From: San Francisco, US
+
+
+/* SITE */
+  Last update: Updated by chef every 15 minutes (YAY!)
+  Language: English
+  Doctype: HTML5
+  IDE: Mac, Sublime Text, VIM, chef
