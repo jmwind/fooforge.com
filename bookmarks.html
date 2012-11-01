@@ -1,0 +1,26 @@
+---
+layout: default
+title: Bookmarks
+---
+
+<div class="span10">
+  <div class="page-header">
+    <h2>Bookmarks <small>&raquo; Surfing the web like it's 1999</small></h2>
+  </div>
+
+  <h3>Evernote</h3>
+  <table class="table table-striped">
+    <thead>
+      <th>Title</th>
+      <th>Date</th>
+    </thead>
+    <tbody>
+      {% evernote_rss url:https://www.evernote.com/pub/fooforge/public/feed count:20 %}
+        <tr>
+          <td><a href='{{ item.url }}'>{{ item.title }}</a></td>
+          <td>{{ item.published }}</td>
+        </tr>
+      {% endevernote_rss %}
+    </tbody>
+  </table>
+</div>
