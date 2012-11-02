@@ -15,7 +15,7 @@ title: Bookmarks
       <th>Date</th>
     </thead>
     <tbody>
-      {% evernote_rss url:https://www.evernote.com/pub/fooforge/public/feed count:20 %}
+      {% evernote_rss username:fooforge notebook:public count:20 %}
         <tr>
           <td><a href='{{ item.url }}'>{{ item.title }}</a></td>
           <td>{{ item.published }}</td>

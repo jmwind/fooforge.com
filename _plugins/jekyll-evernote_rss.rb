@@ -13,7 +13,8 @@ end
 
 class EvernoteRSS
   class << self
-    def fetch_feed(url, count = 10)
+    def fetch_feed(username, notebook, count = 10)
+      url = "https://www.evernote.com/pub/#{username}/#{notebook}/feed"
       feed = Feedzirra::Feed.fetch_and_parse(url)
 
       entries = []
@@ -47,11 +48,13 @@ module Jekyll
           @attributes[key] = value
         end
       else
-        raise SyntaxError.new("Syntax error in 'jekyll-evernote_rss'. Valid syntax is: evernote_rss url:URL count:INT...")
+        raise SyntaxError.new("You've got a syntax error in 'jekyll-evernote_rss'.\nThis is how we do it: evernote_rss username:USERNAME notebook:NAME_OF_NOTEBOOK [count:INT]")
       end
 
-      @url = @attributes['url']
+      @username = @attributes['username']
+      @notebook = @attributes['notebook']
       @count = @attributes['count']
+
       @name = 'item'
 
       super
@@ -60,7 +63,7 @@ module Jekyll
     def render(context)
       context.registers[:evernote_rss] ||= Hash.new(0)
 
-      collection = EvernoteRSS.fetch_feed(@url, @count)
+      collection = EvernoteRSS.fetch_feed(@username, @notebook, @count)
       length = collection.length
       result = []
 
