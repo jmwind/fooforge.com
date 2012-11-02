@@ -12,12 +12,12 @@ title: Bookmarks
   <table class="table table-striped">
     <thead>
       <th>Title</th>
-      <th>Date</th>
+      <th>Published</th>
     </thead>
     <tbody>
       {% evernote_rss username:fooforge notebook:public count:20 %}
         <tr>
-          <td><a href='{{ item.url }}'>{{ item.title }}</a></td>
+          <td><a href='{{ item.url }}' title='{{ item.title }}' target='_blank'>{{ item.title }}</a></td>
           <td>{{ item.published }}</td>
         </tr>
       {% endevernote_rss %}
