@@ -2,7 +2,7 @@
   Boss: Mike Adolphs
   Contact: mike@fooforge.com
   Twitter: @fooforge
-  From: Lubeque, Germany
+  From: Luebeck, Germany
 
 
 /* THANKS */
@@ -19,9 +19,12 @@
   Twitter: @lokeshdhakar
   From: San Francisco, US
 
+  Evernote_RSS Plugin: Mike Adolphs
+  GitHub: https://github.com/fooforge/jekyll-evernote_rss
+  From: Luebeck, Germany
 
 /* SITE */
-  Last update: Updated by chef every 15 minutes (YAY!)
+  Last update: Updated by chef every 30 minutes
   Language: English
-  Doctype: HTML5
+  Doctype: Hopefully HTML5 compliant
   IDE: Mac, Sublime Text, VIM, chef
