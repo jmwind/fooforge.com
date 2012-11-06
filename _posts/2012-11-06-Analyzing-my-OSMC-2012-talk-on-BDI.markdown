@@ -15,7 +15,7 @@ Oh, you're still with me? Alright, … here's what I think:
 
 The talk got a 4.0 rating on [SpeakerRate](http://speakerrate.com/talks/16231-cucumber-nagios-a-deep-dive-into-behavior-driven-infrastructure) and from what I heard so far people gave good feedback which makes me feel pleased overall.
 
-During Q&A there were some pretty interesting questions, e.g. whether the BDI approach would also work in scenarios where collaboration between two or more companies is mandatory. There were also people asking for a more detailed explanation of a few key concepts of [cucumber](http://cukes.info) which frankly speaking isn't a good sign. But well, it at least shows that I didn't lose all their attention during the talk.
+During Q&A there were some pretty interesting questions, e.g. whether the BDI approach would also work in scenarios where collaboration between two or more companies is mandatory. There were also people asking for a more detailed explanation of a few key concepts of [cucumber](http://cukes.info) which frankly speaking isn't a good sign. But well, at least it shows that I didn't lose all their attention during the talk.
 
 People came by afterwards and wanted to know more about [cucumber-nagios](http://auxesis.github.com/cucumber-nagios/) and the *Behavior-Driven Infrastructure* approach. This led to another half an hour of good talking about those topics and the DevOps movement in general before I had to leave the venue in order to catch my train.
 
@@ -43,7 +43,7 @@ Some aspects of the subject were a bit underrepresented. I know it's almost impo
 
 ### Pace
 
-**A presentation is not a race!** Again. **It is not a race!**
+**A presentation is not a race!** Again, **it is not a race!**
 
 I designed the talk to be around 45 minutes long with 15 minutes left for Q&A. Somehow I managed to finish the presentation in about 30 to 35 minutes and I realized far too late that I've been talking too fast. I tried to ease up a bit during the last third of my talk, but it was already a little late for changing the pace.
 
