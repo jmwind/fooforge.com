@@ -27,6 +27,10 @@
   GitHub: https://github.com/fooforge/jekyll-evernote_rss
   From: Luebeck, Germany
 
+  Buddy Icons: Orman Clark
+  Website: http://www.ormanclark.com
+  From: Somewhere in the UK
+
 /* SITE */
   Last update: Updated by chef every 30 minutes
   Language: English
