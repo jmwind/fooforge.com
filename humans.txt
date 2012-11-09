@@ -10,7 +10,7 @@
   Jekyll master: Tom Preston-Werner
   Twitter: @mojombo
   From: San Francisco, US
- 
+
   Sitemaps plugin: Michael Levin
   Github: https://github.com/kinnetica
   From: Washington D.C., US
@@ -18,6 +18,10 @@
   Lightbox2: Lokesh Dhakar
   Twitter: @lokeshdhakar
   From: San Francisco, US
+
+  Hacker News button: Ilya Grigorik
+  GitHub: https://github.com/igrigorik
+  Twitter: @igrigorik
 
   Evernote_RSS Plugin: Mike Adolphs
   GitHub: https://github.com/fooforge/jekyll-evernote_rss
