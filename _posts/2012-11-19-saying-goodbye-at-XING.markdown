@@ -17,4 +17,6 @@ I'm really thankful for the experience here in Hamburg! I'll definitely be aroun
 So, what's next?
 
 **Whoa space-lord mother[*](http://www.youtube.com/watch?v=J5ttxK7SOC8) ...**  
-I'll jump on an A380 on 2nd December to meet my new comrades in the Bay Area though I'll generally remain in Europe getting the job done remotely. Ping me if you're up for a beer (or night photography) in San Francisco! I'll be around from 12/2 till 12/16.
+On 2nd December I'll jump on an A380 to meet my new comrades in the Bay Area though I'll generally remain in Europe getting the job done remotely.
+
+Ping me if you're up for a beer (or night photography) in San Francisco! I'll be around from 12/2 till 12/16. Nothing's planned yet besides attending the Lamb of God/In Flames/Hellyeah concert at [the Warfield](http://events.sfgate.com/san_francisco_ca/events/show/279726027-lamb-of-god) on 13th December.
